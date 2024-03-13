@@ -34,13 +34,13 @@ Below are the steps you have to follow to connect Botpress with WhatsApp. We wil
 
 **Meta**
 
-1. Go back to your Meta app, select Configuration, and edit the Callback URL
-2. Paste the Webhook URL and your same Verify Token that you just came up with (e.g., Again, 12345)
-3. Now click verify and save
-4. Now on the same page, got to Webhook fields, Manage and Subscribe to messages
-5. Now go back to API Setup and add your own WhatsApp phone number You'll get a verification code via WhatsApp.
-6. Next, select your phone number, click send test message and wait for your message to appear in WhatsApp (this can take 60-120 seconds).
-7. Your connection with Botpress should now be live and you can start chatting!
+11. Go back to your Meta app, select Configuration, and edit the Callback URL
+12. Paste the Webhook URL and your same Verify Token that you just came up with (e.g., Again, 12345)
+13. Now click verify and save
+14. Now on the same page, got to Webhook fields, Manage and Subscribe to messages
+15. Now go back to API Setup and add your own WhatsApp phone number You'll get a verification code via WhatsApp.
+16. Next, select your phone number, click send test message and wait for your message to appear in WhatsApp (this can take 60-120 seconds).
+17. Your connection with Botpress should now be live and you can start chatting!
 
   
 
