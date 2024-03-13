@@ -2,12 +2,13 @@ Source: https://www.youtube.com/watch?v=y4wh1vbtYp8&list=PLq-RKrNSz04N8WN43MZWpk
 
 
 intall python
-install go
-in terminal run: python server.py
+In terminal run: python server.py
     pip install flask
     pip install playwright
     pip install virtualenv
 download and install gcc complier
 
+install go
 In a new terminal: go run main.go
 this file will give us a qr code for use to scan and chat with chat-gpt
+    install SQLite
