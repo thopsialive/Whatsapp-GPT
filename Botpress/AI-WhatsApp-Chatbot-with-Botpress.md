@@ -53,4 +53,3 @@ Below are the steps you have to follow to connect Botpress with WhatsApp. We wil
 **Tutorial Source**
 
 [Easiest Way to Connect AI Chatbots to WhatsApp](https://www.youtube.com/watch?v=OEPte4cG3Fk)
-15:27
